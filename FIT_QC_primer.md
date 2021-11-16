@@ -72,6 +72,8 @@ Request to support config files for layouts is pending: https://alice.its.cern.c
 * QC repo: https://github.com/AliceO2Group/QualityControl
 * documentation for shifters: https://alice-qc-shifter.docs.cern.ch/
 * accessing GPN protected websites from outside of CERN: https://gitlab.cern.ch/bvonhall/dynamic-forwarding/-/blob/master/README.md
+* FoxyProxy could store the proxy settings: https://addons.mozilla.org/hu/firefox/addon/foxyproxy-standard/
+* Example JSON file for FoxyProxy set up to access from outside of CERN: ...
 
 -------------------------------
 
